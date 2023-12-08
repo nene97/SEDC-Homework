@@ -22,3 +22,29 @@ function farTocel(far){
 
 let fahrPrompt = prompt("Fahrenheit:");
 farTocel(fahrPrompt)
+
+
+// Solution three 
+// used two funciton and call on them .
+// couldn't make it work with.toLowerCase()
+
+function farhToCel(celsius){
+    let result = celsius * 1.8 + 32;
+    return result;
+
+}
+function celToFarh(fahrenheit){
+    let result = (5/9) * (fahrenheit - 32);
+    return result
+}
+
+let personChoice = prompt(" What do you want to convert F or C")
+let personImput = parseFloat(prompt("Please enter value"))
+if(personChoice === "F" || personChoice === "f"){
+    console.log(`${celToFarh(personImput)}C`)
+
+}else if (personChoice === "C" || personChoice === "c"){
+    console.log(`${farhToCel(personImput)}F`)
+}else {
+    console.log("error")
+};
