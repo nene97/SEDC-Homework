@@ -1,0 +1,14 @@
+C:\Users\neboj\OneDrive\Desktop\C# Class 03\Homework C# class 03\StudentGroup\obj\Debug\net6.0\StudentGroup.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\neboj\OneDrive\Desktop\C# Class 03\Homework C# class 03\StudentGroup\obj\Debug\net6.0\StudentGroup.AssemblyInfoInputs.cache
+C:\Users\neboj\OneDrive\Desktop\C# Class 03\Homework C# class 03\StudentGroup\obj\Debug\net6.0\StudentGroup.AssemblyInfo.cs
+C:\Users\neboj\OneDrive\Desktop\C# Class 03\Homework C# class 03\StudentGroup\obj\Debug\net6.0\StudentGroup.csproj.CoreCompileInputs.cache
+C:\Users\neboj\OneDrive\Desktop\C# Class 03\Homework C# class 03\StudentGroup\bin\Debug\net6.0\StudentGroup.exe
+C:\Users\neboj\OneDrive\Desktop\C# Class 03\Homework C# class 03\StudentGroup\bin\Debug\net6.0\StudentGroup.deps.json
+C:\Users\neboj\OneDrive\Desktop\C# Class 03\Homework C# class 03\StudentGroup\bin\Debug\net6.0\StudentGroup.runtimeconfig.json
+C:\Users\neboj\OneDrive\Desktop\C# Class 03\Homework C# class 03\StudentGroup\bin\Debug\net6.0\StudentGroup.dll
+C:\Users\neboj\OneDrive\Desktop\C# Class 03\Homework C# class 03\StudentGroup\bin\Debug\net6.0\StudentGroup.pdb
+C:\Users\neboj\OneDrive\Desktop\C# Class 03\Homework C# class 03\StudentGroup\obj\Debug\net6.0\StudentGroup.dll
+C:\Users\neboj\OneDrive\Desktop\C# Class 03\Homework C# class 03\StudentGroup\obj\Debug\net6.0\refint\StudentGroup.dll
+C:\Users\neboj\OneDrive\Desktop\C# Class 03\Homework C# class 03\StudentGroup\obj\Debug\net6.0\StudentGroup.pdb
+C:\Users\neboj\OneDrive\Desktop\C# Class 03\Homework C# class 03\StudentGroup\obj\Debug\net6.0\StudentGroup.genruntimeconfig.cache
+C:\Users\neboj\OneDrive\Desktop\C# Class 03\Homework C# class 03\StudentGroup\obj\Debug\net6.0\ref\StudentGroup.dll
