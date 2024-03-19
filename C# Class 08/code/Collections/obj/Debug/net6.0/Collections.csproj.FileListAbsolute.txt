@@ -1,0 +1,14 @@
+C:\Users\neboj\OneDrive\Desktop\C# Class 08\code\Collections\bin\Debug\net6.0\Collections.exe
+C:\Users\neboj\OneDrive\Desktop\C# Class 08\code\Collections\bin\Debug\net6.0\Collections.deps.json
+C:\Users\neboj\OneDrive\Desktop\C# Class 08\code\Collections\bin\Debug\net6.0\Collections.runtimeconfig.json
+C:\Users\neboj\OneDrive\Desktop\C# Class 08\code\Collections\bin\Debug\net6.0\Collections.dll
+C:\Users\neboj\OneDrive\Desktop\C# Class 08\code\Collections\bin\Debug\net6.0\Collections.pdb
+C:\Users\neboj\OneDrive\Desktop\C# Class 08\code\Collections\obj\Debug\net6.0\Collections.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\neboj\OneDrive\Desktop\C# Class 08\code\Collections\obj\Debug\net6.0\Collections.AssemblyInfoInputs.cache
+C:\Users\neboj\OneDrive\Desktop\C# Class 08\code\Collections\obj\Debug\net6.0\Collections.AssemblyInfo.cs
+C:\Users\neboj\OneDrive\Desktop\C# Class 08\code\Collections\obj\Debug\net6.0\Collections.csproj.CoreCompileInputs.cache
+C:\Users\neboj\OneDrive\Desktop\C# Class 08\code\Collections\obj\Debug\net6.0\Collections.dll
+C:\Users\neboj\OneDrive\Desktop\C# Class 08\code\Collections\obj\Debug\net6.0\refint\Collections.dll
+C:\Users\neboj\OneDrive\Desktop\C# Class 08\code\Collections\obj\Debug\net6.0\Collections.pdb
+C:\Users\neboj\OneDrive\Desktop\C# Class 08\code\Collections\obj\Debug\net6.0\Collections.genruntimeconfig.cache
+C:\Users\neboj\OneDrive\Desktop\C# Class 08\code\Collections\obj\Debug\net6.0\ref\Collections.dll

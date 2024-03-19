@@ -1,0 +1,14 @@
+C:\Users\neboj\OneDrive\Desktop\Homework C# class 02\Class 2 Homework\SwapNumbers\bin\Debug\net6.0\SwapNumbers.exe
+C:\Users\neboj\OneDrive\Desktop\Homework C# class 02\Class 2 Homework\SwapNumbers\bin\Debug\net6.0\SwapNumbers.deps.json
+C:\Users\neboj\OneDrive\Desktop\Homework C# class 02\Class 2 Homework\SwapNumbers\bin\Debug\net6.0\SwapNumbers.runtimeconfig.json
+C:\Users\neboj\OneDrive\Desktop\Homework C# class 02\Class 2 Homework\SwapNumbers\bin\Debug\net6.0\SwapNumbers.dll
+C:\Users\neboj\OneDrive\Desktop\Homework C# class 02\Class 2 Homework\SwapNumbers\bin\Debug\net6.0\SwapNumbers.pdb
+C:\Users\neboj\OneDrive\Desktop\Homework C# class 02\Class 2 Homework\SwapNumbers\obj\Debug\net6.0\SwapNumbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\neboj\OneDrive\Desktop\Homework C# class 02\Class 2 Homework\SwapNumbers\obj\Debug\net6.0\SwapNumbers.AssemblyInfoInputs.cache
+C:\Users\neboj\OneDrive\Desktop\Homework C# class 02\Class 2 Homework\SwapNumbers\obj\Debug\net6.0\SwapNumbers.AssemblyInfo.cs
+C:\Users\neboj\OneDrive\Desktop\Homework C# class 02\Class 2 Homework\SwapNumbers\obj\Debug\net6.0\SwapNumbers.csproj.CoreCompileInputs.cache
+C:\Users\neboj\OneDrive\Desktop\Homework C# class 02\Class 2 Homework\SwapNumbers\obj\Debug\net6.0\SwapNumbers.dll
+C:\Users\neboj\OneDrive\Desktop\Homework C# class 02\Class 2 Homework\SwapNumbers\obj\Debug\net6.0\refint\SwapNumbers.dll
+C:\Users\neboj\OneDrive\Desktop\Homework C# class 02\Class 2 Homework\SwapNumbers\obj\Debug\net6.0\SwapNumbers.pdb
+C:\Users\neboj\OneDrive\Desktop\Homework C# class 02\Class 2 Homework\SwapNumbers\obj\Debug\net6.0\SwapNumbers.genruntimeconfig.cache
+C:\Users\neboj\OneDrive\Desktop\Homework C# class 02\Class 2 Homework\SwapNumbers\obj\Debug\net6.0\ref\SwapNumbers.dll

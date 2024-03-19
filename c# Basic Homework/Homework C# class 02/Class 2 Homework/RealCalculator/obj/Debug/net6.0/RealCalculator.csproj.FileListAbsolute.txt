@@ -1,0 +1,14 @@
+C:\Users\neboj\OneDrive\Desktop\Homework C# class 02\Class 2 Homework\RealCalculator\obj\Debug\net6.0\RealCalculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\neboj\OneDrive\Desktop\Homework C# class 02\Class 2 Homework\RealCalculator\obj\Debug\net6.0\RealCalculator.AssemblyInfoInputs.cache
+C:\Users\neboj\OneDrive\Desktop\Homework C# class 02\Class 2 Homework\RealCalculator\obj\Debug\net6.0\RealCalculator.AssemblyInfo.cs
+C:\Users\neboj\OneDrive\Desktop\Homework C# class 02\Class 2 Homework\RealCalculator\obj\Debug\net6.0\RealCalculator.csproj.CoreCompileInputs.cache
+C:\Users\neboj\OneDrive\Desktop\Homework C# class 02\Class 2 Homework\RealCalculator\bin\Debug\net6.0\RealCalculator.exe
+C:\Users\neboj\OneDrive\Desktop\Homework C# class 02\Class 2 Homework\RealCalculator\bin\Debug\net6.0\RealCalculator.deps.json
+C:\Users\neboj\OneDrive\Desktop\Homework C# class 02\Class 2 Homework\RealCalculator\bin\Debug\net6.0\RealCalculator.runtimeconfig.json
+C:\Users\neboj\OneDrive\Desktop\Homework C# class 02\Class 2 Homework\RealCalculator\bin\Debug\net6.0\RealCalculator.dll
+C:\Users\neboj\OneDrive\Desktop\Homework C# class 02\Class 2 Homework\RealCalculator\bin\Debug\net6.0\RealCalculator.pdb
+C:\Users\neboj\OneDrive\Desktop\Homework C# class 02\Class 2 Homework\RealCalculator\obj\Debug\net6.0\RealCalculator.dll
+C:\Users\neboj\OneDrive\Desktop\Homework C# class 02\Class 2 Homework\RealCalculator\obj\Debug\net6.0\refint\RealCalculator.dll
+C:\Users\neboj\OneDrive\Desktop\Homework C# class 02\Class 2 Homework\RealCalculator\obj\Debug\net6.0\RealCalculator.pdb
+C:\Users\neboj\OneDrive\Desktop\Homework C# class 02\Class 2 Homework\RealCalculator\obj\Debug\net6.0\RealCalculator.genruntimeconfig.cache
+C:\Users\neboj\OneDrive\Desktop\Homework C# class 02\Class 2 Homework\RealCalculator\obj\Debug\net6.0\ref\RealCalculator.dll

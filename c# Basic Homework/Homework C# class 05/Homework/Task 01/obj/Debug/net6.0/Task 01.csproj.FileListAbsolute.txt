@@ -1,0 +1,14 @@
+C:\Users\neboj\OneDrive\Desktop\C# Class 05\Homework\Task 01\obj\Debug\net6.0\Task 01.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\neboj\OneDrive\Desktop\C# Class 05\Homework\Task 01\obj\Debug\net6.0\Task 01.AssemblyInfoInputs.cache
+C:\Users\neboj\OneDrive\Desktop\C# Class 05\Homework\Task 01\obj\Debug\net6.0\Task 01.AssemblyInfo.cs
+C:\Users\neboj\OneDrive\Desktop\C# Class 05\Homework\Task 01\obj\Debug\net6.0\Task 01.csproj.CoreCompileInputs.cache
+C:\Users\neboj\OneDrive\Desktop\C# Class 05\Homework\Task 01\bin\Debug\net6.0\Task 01.exe
+C:\Users\neboj\OneDrive\Desktop\C# Class 05\Homework\Task 01\bin\Debug\net6.0\Task 01.deps.json
+C:\Users\neboj\OneDrive\Desktop\C# Class 05\Homework\Task 01\bin\Debug\net6.0\Task 01.runtimeconfig.json
+C:\Users\neboj\OneDrive\Desktop\C# Class 05\Homework\Task 01\bin\Debug\net6.0\Task 01.dll
+C:\Users\neboj\OneDrive\Desktop\C# Class 05\Homework\Task 01\bin\Debug\net6.0\Task 01.pdb
+C:\Users\neboj\OneDrive\Desktop\C# Class 05\Homework\Task 01\obj\Debug\net6.0\Task 01.dll
+C:\Users\neboj\OneDrive\Desktop\C# Class 05\Homework\Task 01\obj\Debug\net6.0\refint\Task 01.dll
+C:\Users\neboj\OneDrive\Desktop\C# Class 05\Homework\Task 01\obj\Debug\net6.0\Task 01.pdb
+C:\Users\neboj\OneDrive\Desktop\C# Class 05\Homework\Task 01\obj\Debug\net6.0\Task 01.genruntimeconfig.cache
+C:\Users\neboj\OneDrive\Desktop\C# Class 05\Homework\Task 01\obj\Debug\net6.0\ref\Task 01.dll
