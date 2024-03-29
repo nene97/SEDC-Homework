@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Homework01/1.0.0": {
+        "dependencies": {
+          "HomeworkDomain": "1.0.0"
+        },
+        "runtime": {
+          "Homework01.dll": {}
+        }
+      },
+      "HomeworkDomain/1.0.0": {
+        "runtime": {
+          "HomeworkDomain.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Homework01/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "HomeworkDomain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

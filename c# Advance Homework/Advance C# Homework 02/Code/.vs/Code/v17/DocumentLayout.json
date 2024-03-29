@@ -1,0 +1,190 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\neboj\\OneDrive\\Desktop\\Advance C# Homework 02\\Code\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C4B6B73C-F25E-44FD-89F1-557D2AC07E91}|HomeworkDomain\\HomeworkDomain.csproj|c:\\users\\neboj\\onedrive\\desktop\\advance c# homework 02\\code\\homeworkdomain\\interfaces\\ianimal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C4B6B73C-F25E-44FD-89F1-557D2AC07E91}|HomeworkDomain\\HomeworkDomain.csproj|solutionrelative:homeworkdomain\\interfaces\\ianimal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2BF1D1C0-3A76-47D0-BEBF-B3CEE14C6582}|Homework01\\Homework01.csproj|c:\\users\\neboj\\onedrive\\desktop\\advance c# homework 02\\code\\homework01\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2BF1D1C0-3A76-47D0-BEBF-B3CEE14C6582}|Homework01\\Homework01.csproj|solutionrelative:homework01\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C7C9764A-A79F-4779-85AB-50F43770DA41}|Homework02\\Homework02.csproj|c:\\users\\neboj\\onedrive\\desktop\\advance c# homework 02\\code\\homework02\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C7C9764A-A79F-4779-85AB-50F43770DA41}|Homework02\\Homework02.csproj|solutionrelative:homework02\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D5AB365D-CE7D-4929-AB8B-BD0E4EAEA342}|Homweork02Domain\\Homweork02Domain.csproj|c:\\users\\neboj\\onedrive\\desktop\\advance c# homework 02\\code\\homweork02domain\\models\\carcenter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D5AB365D-CE7D-4929-AB8B-BD0E4EAEA342}|Homweork02Domain\\Homweork02Domain.csproj|solutionrelative:homweork02domain\\models\\carcenter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D5AB365D-CE7D-4929-AB8B-BD0E4EAEA342}|Homweork02Domain\\Homweork02Domain.csproj|c:\\users\\neboj\\onedrive\\desktop\\advance c# homework 02\\code\\homweork02domain\\interfaces\\irepairservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D5AB365D-CE7D-4929-AB8B-BD0E4EAEA342}|Homweork02Domain\\Homweork02Domain.csproj|solutionrelative:homweork02domain\\interfaces\\irepairservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D5AB365D-CE7D-4929-AB8B-BD0E4EAEA342}|Homweork02Domain\\Homweork02Domain.csproj|c:\\users\\neboj\\onedrive\\desktop\\advance c# homework 02\\code\\homweork02domain\\models\\vehicle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D5AB365D-CE7D-4929-AB8B-BD0E4EAEA342}|Homweork02Domain\\Homweork02Domain.csproj|solutionrelative:homweork02domain\\models\\vehicle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D5AB365D-CE7D-4929-AB8B-BD0E4EAEA342}|Homweork02Domain\\Homweork02Domain.csproj|c:\\users\\neboj\\onedrive\\desktop\\advance c# homework 02\\code\\homweork02domain\\models\\truck.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D5AB365D-CE7D-4929-AB8B-BD0E4EAEA342}|Homweork02Domain\\Homweork02Domain.csproj|solutionrelative:homweork02domain\\models\\truck.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D5AB365D-CE7D-4929-AB8B-BD0E4EAEA342}|Homweork02Domain\\Homweork02Domain.csproj|c:\\users\\neboj\\onedrive\\desktop\\advance c# homework 02\\code\\homweork02domain\\models\\car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D5AB365D-CE7D-4929-AB8B-BD0E4EAEA342}|Homweork02Domain\\Homweork02Domain.csproj|solutionrelative:homweork02domain\\models\\car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D5AB365D-CE7D-4929-AB8B-BD0E4EAEA342}|Homweork02Domain\\Homweork02Domain.csproj|c:\\users\\neboj\\onedrive\\desktop\\advance c# homework 02\\code\\homweork02domain\\interfaces\\icarwash.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D5AB365D-CE7D-4929-AB8B-BD0E4EAEA342}|Homweork02Domain\\Homweork02Domain.csproj|solutionrelative:homweork02domain\\interfaces\\icarwash.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D5AB365D-CE7D-4929-AB8B-BD0E4EAEA342}|Homweork02Domain\\Homweork02Domain.csproj|c:\\users\\neboj\\onedrive\\desktop\\advance c# homework 02\\code\\homweork02domain\\interfaces\\igaspump.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D5AB365D-CE7D-4929-AB8B-BD0E4EAEA342}|Homweork02Domain\\Homweork02Domain.csproj|solutionrelative:homweork02domain\\interfaces\\igaspump.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "IAnimal.cs",
+              "DocumentMoniker": "C:\\Users\\neboj\\OneDrive\\Desktop\\Advance C# Homework 02\\Code\\HomeworkDomain\\Interfaces\\IAnimal.cs",
+              "RelativeDocumentMoniker": "HomeworkDomain\\Interfaces\\IAnimal.cs",
+              "ToolTip": "C:\\Users\\neboj\\OneDrive\\Desktop\\Advance C# Homework 02\\Code\\HomeworkDomain\\Interfaces\\IAnimal.cs",
+              "RelativeToolTip": "HomeworkDomain\\Interfaces\\IAnimal.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-29T20:41:20.379Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\neboj\\OneDrive\\Desktop\\Advance C# Homework 02\\Code\\Homework01\\Program.cs",
+              "RelativeDocumentMoniker": "Homework01\\Program.cs",
+              "ToolTip": "C:\\Users\\neboj\\OneDrive\\Desktop\\Advance C# Homework 02\\Code\\Homework01\\Program.cs",
+              "RelativeToolTip": "Homework01\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-29T20:41:10.211Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CarCenter.cs",
+              "DocumentMoniker": "C:\\Users\\neboj\\OneDrive\\Desktop\\Advance C# Homework 02\\Code\\Homweork02Domain\\Models\\CarCenter.cs",
+              "RelativeDocumentMoniker": "Homweork02Domain\\Models\\CarCenter.cs",
+              "ToolTip": "C:\\Users\\neboj\\OneDrive\\Desktop\\Advance C# Homework 02\\Code\\Homweork02Domain\\Models\\CarCenter.cs",
+              "RelativeToolTip": "Homweork02Domain\\Models\\CarCenter.cs",
+              "ViewState": "AQIAAEcAAAAAAAAAAAAswHwAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-29T20:05:02.896Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IRepairService.cs",
+              "DocumentMoniker": "C:\\Users\\neboj\\OneDrive\\Desktop\\Advance C# Homework 02\\Code\\Homweork02Domain\\Interfaces\\IRepairService.cs",
+              "RelativeDocumentMoniker": "Homweork02Domain\\Interfaces\\IRepairService.cs",
+              "ToolTip": "C:\\Users\\neboj\\OneDrive\\Desktop\\Advance C# Homework 02\\Code\\Homweork02Domain\\Interfaces\\IRepairService.cs",
+              "RelativeToolTip": "Homweork02Domain\\Interfaces\\IRepairService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAYAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-29T19:38:18.385Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "IGasPump.cs",
+              "DocumentMoniker": "C:\\Users\\neboj\\OneDrive\\Desktop\\Advance C# Homework 02\\Code\\Homweork02Domain\\Interfaces\\IGasPump.cs",
+              "RelativeDocumentMoniker": "Homweork02Domain\\Interfaces\\IGasPump.cs",
+              "ToolTip": "C:\\Users\\neboj\\OneDrive\\Desktop\\Advance C# Homework 02\\Code\\Homweork02Domain\\Interfaces\\IGasPump.cs",
+              "RelativeToolTip": "Homweork02Domain\\Interfaces\\IGasPump.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-29T19:35:56.75Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ICarWash.cs",
+              "DocumentMoniker": "C:\\Users\\neboj\\OneDrive\\Desktop\\Advance C# Homework 02\\Code\\Homweork02Domain\\Interfaces\\ICarWash.cs",
+              "RelativeDocumentMoniker": "Homweork02Domain\\Interfaces\\ICarWash.cs",
+              "ToolTip": "C:\\Users\\neboj\\OneDrive\\Desktop\\Advance C# Homework 02\\Code\\Homweork02Domain\\Interfaces\\ICarWash.cs",
+              "RelativeToolTip": "Homweork02Domain\\Interfaces\\ICarWash.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-29T19:33:51.399Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Truck.cs",
+              "DocumentMoniker": "C:\\Users\\neboj\\OneDrive\\Desktop\\Advance C# Homework 02\\Code\\Homweork02Domain\\Models\\Truck.cs",
+              "RelativeDocumentMoniker": "Homweork02Domain\\Models\\Truck.cs",
+              "ToolTip": "C:\\Users\\neboj\\OneDrive\\Desktop\\Advance C# Homework 02\\Code\\Homweork02Domain\\Models\\Truck.cs",
+              "RelativeToolTip": "Homweork02Domain\\Models\\Truck.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAqwBQAAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-29T19:20:20.248Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Car.cs",
+              "DocumentMoniker": "C:\\Users\\neboj\\OneDrive\\Desktop\\Advance C# Homework 02\\Code\\Homweork02Domain\\Models\\Car.cs",
+              "RelativeDocumentMoniker": "Homweork02Domain\\Models\\Car.cs",
+              "ToolTip": "C:\\Users\\neboj\\OneDrive\\Desktop\\Advance C# Homework 02\\Code\\Homweork02Domain\\Models\\Car.cs",
+              "RelativeToolTip": "Homweork02Domain\\Models\\Car.cs",
+              "ViewState": "AQIAACUAAAAAAAAAAAAcwDwAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-29T19:16:26.778Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Vehicle.cs",
+              "DocumentMoniker": "C:\\Users\\neboj\\OneDrive\\Desktop\\Advance C# Homework 02\\Code\\Homweork02Domain\\Models\\Vehicle.cs",
+              "RelativeDocumentMoniker": "Homweork02Domain\\Models\\Vehicle.cs",
+              "ToolTip": "C:\\Users\\neboj\\OneDrive\\Desktop\\Advance C# Homework 02\\Code\\Homweork02Domain\\Models\\Vehicle.cs",
+              "RelativeToolTip": "Homweork02Domain\\Models\\Vehicle.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAQwA8AAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-29T19:15:25.644Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\neboj\\OneDrive\\Desktop\\Advance C# Homework 02\\Code\\Homework02\\Program.cs",
+              "RelativeDocumentMoniker": "Homework02\\Program.cs",
+              "ToolTip": "C:\\Users\\neboj\\OneDrive\\Desktop\\Advance C# Homework 02\\Code\\Homework02\\Program.cs",
+              "RelativeToolTip": "Homework02\\Program.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAAwBwAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-29T19:13:27.897Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
