@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\neboj\\OneDrive\\Desktop\\ASP.NET WebAPI Homework Class 03\\Homework\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C599E1E7-7107-4EEC-9702-4E72EAF97C0B}|BooksApi\\BooksApi.csproj|c:\\users\\neboj\\onedrive\\desktop\\asp.net webapi homework class 03\\homework\\booksapi\\controllers\\bookscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C599E1E7-7107-4EEC-9702-4E72EAF97C0B}|BooksApi\\BooksApi.csproj|solutionrelative:booksapi\\controllers\\bookscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C599E1E7-7107-4EEC-9702-4E72EAF97C0B}|BooksApi\\BooksApi.csproj|c:\\users\\neboj\\onedrive\\desktop\\asp.net webapi homework class 03\\homework\\booksapi\\staticdb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C599E1E7-7107-4EEC-9702-4E72EAF97C0B}|BooksApi\\BooksApi.csproj|solutionrelative:booksapi\\staticdb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C599E1E7-7107-4EEC-9702-4E72EAF97C0B}|BooksApi\\BooksApi.csproj|c:\\users\\neboj\\onedrive\\desktop\\asp.net webapi homework class 03\\homework\\booksapi\\models\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C599E1E7-7107-4EEC-9702-4E72EAF97C0B}|BooksApi\\BooksApi.csproj|solutionrelative:booksapi\\models\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "StaticDb.cs",
+              "DocumentMoniker": "C:\\Users\\neboj\\OneDrive\\Desktop\\ASP.NET WebAPI Homework Class 03\\Homework\\BooksApi\\StaticDb.cs",
+              "RelativeDocumentMoniker": "BooksApi\\StaticDb.cs",
+              "ToolTip": "C:\\Users\\neboj\\OneDrive\\Desktop\\ASP.NET WebAPI Homework Class 03\\Homework\\BooksApi\\StaticDb.cs",
+              "RelativeToolTip": "BooksApi\\StaticDb.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-14T18:13:21.245Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Book.cs",
+              "DocumentMoniker": "C:\\Users\\neboj\\OneDrive\\Desktop\\ASP.NET WebAPI Homework Class 03\\Homework\\BooksApi\\Models\\Book.cs",
+              "RelativeDocumentMoniker": "BooksApi\\Models\\Book.cs",
+              "ToolTip": "C:\\Users\\neboj\\OneDrive\\Desktop\\ASP.NET WebAPI Homework Class 03\\Homework\\BooksApi\\Models\\Book.cs",
+              "RelativeToolTip": "BooksApi\\Models\\Book.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-14T18:12:39.626Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "BooksController.cs",
+              "DocumentMoniker": "C:\\Users\\neboj\\OneDrive\\Desktop\\ASP.NET WebAPI Homework Class 03\\Homework\\BooksApi\\Controllers\\BooksController.cs",
+              "RelativeDocumentMoniker": "BooksApi\\Controllers\\BooksController.cs",
+              "ToolTip": "C:\\Users\\neboj\\OneDrive\\Desktop\\ASP.NET WebAPI Homework Class 03\\Homework\\BooksApi\\Controllers\\BooksController.cs",
+              "RelativeToolTip": "BooksApi\\Controllers\\BooksController.cs",
+              "ViewState": "AQIAADMAAAAAAAAAAAAowDsAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-14T18:11:51.34Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
