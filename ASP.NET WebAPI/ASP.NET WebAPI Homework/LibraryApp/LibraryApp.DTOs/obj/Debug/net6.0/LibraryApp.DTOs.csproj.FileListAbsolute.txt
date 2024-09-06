@@ -1,0 +1,15 @@
+C:\Users\neboj\OneDrive\Desktop\ASP.NET WebAPI Homework Class 101\LibraryApp\LibraryApp.DTOs\bin\Debug\net6.0\LibraryApp.DTOs.deps.json
+C:\Users\neboj\OneDrive\Desktop\ASP.NET WebAPI Homework Class 101\LibraryApp\LibraryApp.DTOs\bin\Debug\net6.0\LibraryApp.DTOs.dll
+C:\Users\neboj\OneDrive\Desktop\ASP.NET WebAPI Homework Class 101\LibraryApp\LibraryApp.DTOs\bin\Debug\net6.0\LibraryApp.DTOs.pdb
+C:\Users\neboj\OneDrive\Desktop\ASP.NET WebAPI Homework Class 101\LibraryApp\LibraryApp.DTOs\bin\Debug\net6.0\LibraryApp.Domain.dll
+C:\Users\neboj\OneDrive\Desktop\ASP.NET WebAPI Homework Class 101\LibraryApp\LibraryApp.DTOs\bin\Debug\net6.0\LibraryApp.Domain.pdb
+C:\Users\neboj\OneDrive\Desktop\ASP.NET WebAPI Homework Class 101\LibraryApp\LibraryApp.DTOs\obj\Debug\net6.0\LibraryApp.DTOs.csproj.AssemblyReference.cache
+C:\Users\neboj\OneDrive\Desktop\ASP.NET WebAPI Homework Class 101\LibraryApp\LibraryApp.DTOs\obj\Debug\net6.0\LibraryApp.DTOs.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\neboj\OneDrive\Desktop\ASP.NET WebAPI Homework Class 101\LibraryApp\LibraryApp.DTOs\obj\Debug\net6.0\LibraryApp.DTOs.AssemblyInfoInputs.cache
+C:\Users\neboj\OneDrive\Desktop\ASP.NET WebAPI Homework Class 101\LibraryApp\LibraryApp.DTOs\obj\Debug\net6.0\LibraryApp.DTOs.AssemblyInfo.cs
+C:\Users\neboj\OneDrive\Desktop\ASP.NET WebAPI Homework Class 101\LibraryApp\LibraryApp.DTOs\obj\Debug\net6.0\LibraryApp.DTOs.csproj.CoreCompileInputs.cache
+C:\Users\neboj\OneDrive\Desktop\ASP.NET WebAPI Homework Class 101\LibraryApp\LibraryApp.DTOs\obj\Debug\net6.0\LibraryA.F6AE765B.Up2Date
+C:\Users\neboj\OneDrive\Desktop\ASP.NET WebAPI Homework Class 101\LibraryApp\LibraryApp.DTOs\obj\Debug\net6.0\LibraryApp.DTOs.dll
+C:\Users\neboj\OneDrive\Desktop\ASP.NET WebAPI Homework Class 101\LibraryApp\LibraryApp.DTOs\obj\Debug\net6.0\refint\LibraryApp.DTOs.dll
+C:\Users\neboj\OneDrive\Desktop\ASP.NET WebAPI Homework Class 101\LibraryApp\LibraryApp.DTOs\obj\Debug\net6.0\LibraryApp.DTOs.pdb
+C:\Users\neboj\OneDrive\Desktop\ASP.NET WebAPI Homework Class 101\LibraryApp\LibraryApp.DTOs\obj\Debug\net6.0\ref\LibraryApp.DTOs.dll

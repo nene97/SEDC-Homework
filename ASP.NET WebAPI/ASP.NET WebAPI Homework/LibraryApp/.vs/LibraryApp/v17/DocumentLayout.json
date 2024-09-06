@@ -1,0 +1,224 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\neboj\\OneDrive\\Desktop\\ASP.NET WebAPI Homework Class 101\\LibraryApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7EC20BC7-D14F-4644-B7F4-C8F20E91D97E}|LibraryApp.Services\\LibraryApp.Services.csproj|c:\\users\\neboj\\onedrive\\desktop\\asp.net webapi homework class 101\\libraryapp\\libraryapp.services\\implementations\\bookservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7EC20BC7-D14F-4644-B7F4-C8F20E91D97E}|LibraryApp.Services\\LibraryApp.Services.csproj|solutionrelative:libraryapp.services\\implementations\\bookservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB800A1E-9949-45F4-B04C-2E4C8C8BAE1D}|LibraryApp.DataAccess\\LibraryApp.DataAccess.csproj|c:\\users\\neboj\\onedrive\\desktop\\asp.net webapi homework class 101\\libraryapp\\libraryapp.dataaccess\\implementations\\bookrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BB800A1E-9949-45F4-B04C-2E4C8C8BAE1D}|LibraryApp.DataAccess\\LibraryApp.DataAccess.csproj|solutionrelative:libraryapp.dataaccess\\implementations\\bookrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5084B5C0-FCAC-4864-B308-84F3632E25B8}|LibraryApp.Domain\\LibraryApp.Domain.csproj|c:\\users\\neboj\\onedrive\\desktop\\asp.net webapi homework class 101\\libraryapp\\libraryapp.domain\\models\\enums\\genreenum.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5084B5C0-FCAC-4864-B308-84F3632E25B8}|LibraryApp.Domain\\LibraryApp.Domain.csproj|solutionrelative:libraryapp.domain\\models\\enums\\genreenum.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB800A1E-9949-45F4-B04C-2E4C8C8BAE1D}|LibraryApp.DataAccess\\LibraryApp.DataAccess.csproj|c:\\users\\neboj\\onedrive\\desktop\\asp.net webapi homework class 101\\libraryapp\\libraryapp.dataaccess\\implementations\\authorrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BB800A1E-9949-45F4-B04C-2E4C8C8BAE1D}|LibraryApp.DataAccess\\LibraryApp.DataAccess.csproj|solutionrelative:libraryapp.dataaccess\\implementations\\authorrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7EC20BC7-D14F-4644-B7F4-C8F20E91D97E}|LibraryApp.Services\\LibraryApp.Services.csproj|c:\\users\\neboj\\onedrive\\desktop\\asp.net webapi homework class 101\\libraryapp\\libraryapp.services\\implementations\\authorservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7EC20BC7-D14F-4644-B7F4-C8F20E91D97E}|LibraryApp.Services\\LibraryApp.Services.csproj|solutionrelative:libraryapp.services\\implementations\\authorservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{095FA849-4013-4553-BF3F-E209B5553896}|LibraryApp.DTOs\\LibraryApp.DTOs.csproj|c:\\users\\neboj\\onedrive\\desktop\\asp.net webapi homework class 101\\libraryapp\\libraryapp.dtos\\bookdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{095FA849-4013-4553-BF3F-E209B5553896}|LibraryApp.DTOs\\LibraryApp.DTOs.csproj|solutionrelative:libraryapp.dtos\\bookdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1820675-7E88-4793-9804-3D25C433FEBF}|LibraryApp.Mappers\\LibraryApp.Mappers.csproj|c:\\users\\neboj\\onedrive\\desktop\\asp.net webapi homework class 101\\libraryapp\\libraryapp.mappers\\bookmapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1820675-7E88-4793-9804-3D25C433FEBF}|LibraryApp.Mappers\\LibraryApp.Mappers.csproj|solutionrelative:libraryapp.mappers\\bookmapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5084B5C0-FCAC-4864-B308-84F3632E25B8}|LibraryApp.Domain\\LibraryApp.Domain.csproj|c:\\users\\neboj\\onedrive\\desktop\\asp.net webapi homework class 101\\libraryapp\\libraryapp.domain\\models\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5084B5C0-FCAC-4864-B308-84F3632E25B8}|LibraryApp.Domain\\LibraryApp.Domain.csproj|solutionrelative:libraryapp.domain\\models\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8116E7C0-0F39-4B9E-9328-08D0AD12F055}|LibraryApp\\LibraryApp.csproj|c:\\users\\neboj\\onedrive\\desktop\\asp.net webapi homework class 101\\libraryapp\\libraryapp\\controllers\\authorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8116E7C0-0F39-4B9E-9328-08D0AD12F055}|LibraryApp\\LibraryApp.csproj|solutionrelative:libraryapp\\controllers\\authorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8116E7C0-0F39-4B9E-9328-08D0AD12F055}|LibraryApp\\LibraryApp.csproj|c:\\users\\neboj\\onedrive\\desktop\\asp.net webapi homework class 101\\libraryapp\\libraryapp\\controllers\\bookcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8116E7C0-0F39-4B9E-9328-08D0AD12F055}|LibraryApp\\LibraryApp.csproj|solutionrelative:libraryapp\\controllers\\bookcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{095FA849-4013-4553-BF3F-E209B5553896}|LibraryApp.DTOs\\LibraryApp.DTOs.csproj|c:\\users\\neboj\\onedrive\\desktop\\asp.net webapi homework class 101\\libraryapp\\libraryapp.dtos\\updateauthordto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{095FA849-4013-4553-BF3F-E209B5553896}|LibraryApp.DTOs\\LibraryApp.DTOs.csproj|solutionrelative:libraryapp.dtos\\updateauthordto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1820675-7E88-4793-9804-3D25C433FEBF}|LibraryApp.Mappers\\LibraryApp.Mappers.csproj|c:\\users\\neboj\\onedrive\\desktop\\asp.net webapi homework class 101\\libraryapp\\libraryapp.mappers\\authormapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1820675-7E88-4793-9804-3D25C433FEBF}|LibraryApp.Mappers\\LibraryApp.Mappers.csproj|solutionrelative:libraryapp.mappers\\authormapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "GenreEnum.cs",
+              "DocumentMoniker": "C:\\Users\\neboj\\OneDrive\\Desktop\\ASP.NET WebAPI Homework Class 101\\LibraryApp\\LibraryApp.Domain\\Models\\Enums\\GenreEnum.cs",
+              "RelativeDocumentMoniker": "LibraryApp.Domain\\Models\\Enums\\GenreEnum.cs",
+              "ToolTip": "C:\\Users\\neboj\\OneDrive\\Desktop\\ASP.NET WebAPI Homework Class 101\\LibraryApp\\LibraryApp.Domain\\Models\\Enums\\GenreEnum.cs",
+              "RelativeToolTip": "LibraryApp.Domain\\Models\\Enums\\GenreEnum.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-06T18:50:12.709Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Book.cs",
+              "DocumentMoniker": "C:\\Users\\neboj\\OneDrive\\Desktop\\ASP.NET WebAPI Homework Class 101\\LibraryApp\\LibraryApp.Domain\\Models\\Book.cs",
+              "RelativeDocumentMoniker": "LibraryApp.Domain\\Models\\Book.cs",
+              "ToolTip": "C:\\Users\\neboj\\OneDrive\\Desktop\\ASP.NET WebAPI Homework Class 101\\LibraryApp\\LibraryApp.Domain\\Models\\Book.cs",
+              "RelativeToolTip": "LibraryApp.Domain\\Models\\Book.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-06T18:42:29.439Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "BookMapper.cs",
+              "DocumentMoniker": "C:\\Users\\neboj\\OneDrive\\Desktop\\ASP.NET WebAPI Homework Class 101\\LibraryApp\\LibraryApp.Mappers\\BookMapper.cs",
+              "RelativeDocumentMoniker": "LibraryApp.Mappers\\BookMapper.cs",
+              "ToolTip": "C:\\Users\\neboj\\OneDrive\\Desktop\\ASP.NET WebAPI Homework Class 101\\LibraryApp\\LibraryApp.Mappers\\BookMapper.cs",
+              "RelativeToolTip": "LibraryApp.Mappers\\BookMapper.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAqwCQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-06T18:37:40.029Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "BookDto.cs",
+              "DocumentMoniker": "C:\\Users\\neboj\\OneDrive\\Desktop\\ASP.NET WebAPI Homework Class 101\\LibraryApp\\LibraryApp.DTOs\\BookDto.cs",
+              "RelativeDocumentMoniker": "LibraryApp.DTOs\\BookDto.cs",
+              "ToolTip": "C:\\Users\\neboj\\OneDrive\\Desktop\\ASP.NET WebAPI Homework Class 101\\LibraryApp\\LibraryApp.DTOs\\BookDto.cs",
+              "RelativeToolTip": "LibraryApp.DTOs\\BookDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-06T18:37:25.583Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "UpdateAuthorDto.cs",
+              "DocumentMoniker": "C:\\Users\\neboj\\OneDrive\\Desktop\\ASP.NET WebAPI Homework Class 101\\LibraryApp\\LibraryApp.DTOs\\UpdateAuthorDto.cs",
+              "RelativeDocumentMoniker": "LibraryApp.DTOs\\UpdateAuthorDto.cs",
+              "ToolTip": "C:\\Users\\neboj\\OneDrive\\Desktop\\ASP.NET WebAPI Homework Class 101\\LibraryApp\\LibraryApp.DTOs\\UpdateAuthorDto.cs",
+              "RelativeToolTip": "LibraryApp.DTOs\\UpdateAuthorDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-06T18:27:50.815Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "AuthorMapper.cs",
+              "DocumentMoniker": "C:\\Users\\neboj\\OneDrive\\Desktop\\ASP.NET WebAPI Homework Class 101\\LibraryApp\\LibraryApp.Mappers\\AuthorMapper.cs",
+              "RelativeDocumentMoniker": "LibraryApp.Mappers\\AuthorMapper.cs",
+              "ToolTip": "C:\\Users\\neboj\\OneDrive\\Desktop\\ASP.NET WebAPI Homework Class 101\\LibraryApp\\LibraryApp.Mappers\\AuthorMapper.cs",
+              "RelativeToolTip": "LibraryApp.Mappers\\AuthorMapper.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAMwB4AAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-06T18:12:03.488Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "BookRepository.cs",
+              "DocumentMoniker": "C:\\Users\\neboj\\OneDrive\\Desktop\\ASP.NET WebAPI Homework Class 101\\LibraryApp\\LibraryApp.DataAccess\\Implementations\\BookRepository.cs",
+              "RelativeDocumentMoniker": "LibraryApp.DataAccess\\Implementations\\BookRepository.cs",
+              "ToolTip": "C:\\Users\\neboj\\OneDrive\\Desktop\\ASP.NET WebAPI Homework Class 101\\LibraryApp\\LibraryApp.DataAccess\\Implementations\\BookRepository.cs",
+              "RelativeToolTip": "LibraryApp.DataAccess\\Implementations\\BookRepository.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAowCcAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-06T17:34:35.321Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "BookServices.cs",
+              "DocumentMoniker": "C:\\Users\\neboj\\OneDrive\\Desktop\\ASP.NET WebAPI Homework Class 101\\LibraryApp\\LibraryApp.Services\\Implementations\\BookServices.cs",
+              "RelativeDocumentMoniker": "LibraryApp.Services\\Implementations\\BookServices.cs",
+              "ToolTip": "C:\\Users\\neboj\\OneDrive\\Desktop\\ASP.NET WebAPI Homework Class 101\\LibraryApp\\LibraryApp.Services\\Implementations\\BookServices.cs",
+              "RelativeToolTip": "LibraryApp.Services\\Implementations\\BookServices.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAAD4AAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-06T17:34:11.733Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AuthorServices.cs",
+              "DocumentMoniker": "C:\\Users\\neboj\\OneDrive\\Desktop\\ASP.NET WebAPI Homework Class 101\\LibraryApp\\LibraryApp.Services\\Implementations\\AuthorServices.cs",
+              "RelativeDocumentMoniker": "LibraryApp.Services\\Implementations\\AuthorServices.cs",
+              "ToolTip": "C:\\Users\\neboj\\OneDrive\\Desktop\\ASP.NET WebAPI Homework Class 101\\LibraryApp\\LibraryApp.Services\\Implementations\\AuthorServices.cs",
+              "RelativeToolTip": "LibraryApp.Services\\Implementations\\AuthorServices.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAowBkAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-06T17:14:06.623Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AuthorRepository.cs",
+              "DocumentMoniker": "C:\\Users\\neboj\\OneDrive\\Desktop\\ASP.NET WebAPI Homework Class 101\\LibraryApp\\LibraryApp.DataAccess\\Implementations\\AuthorRepository.cs",
+              "RelativeDocumentMoniker": "LibraryApp.DataAccess\\Implementations\\AuthorRepository.cs",
+              "ToolTip": "C:\\Users\\neboj\\OneDrive\\Desktop\\ASP.NET WebAPI Homework Class 101\\LibraryApp\\LibraryApp.DataAccess\\Implementations\\AuthorRepository.cs",
+              "RelativeToolTip": "LibraryApp.DataAccess\\Implementations\\AuthorRepository.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAUwBYAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-06T17:11:14.904Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "BookController.cs",
+              "DocumentMoniker": "C:\\Users\\neboj\\OneDrive\\Desktop\\ASP.NET WebAPI Homework Class 101\\LibraryApp\\LibraryApp\\Controllers\\BookController.cs",
+              "RelativeDocumentMoniker": "LibraryApp\\Controllers\\BookController.cs",
+              "ToolTip": "C:\\Users\\neboj\\OneDrive\\Desktop\\ASP.NET WebAPI Homework Class 101\\LibraryApp\\LibraryApp\\Controllers\\BookController.cs",
+              "RelativeToolTip": "LibraryApp\\Controllers\\BookController.cs",
+              "ViewState": "AgIAAFgAAAAAAAAAAAAcwG4AAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-06T17:09:32.622Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "AuthorController.cs",
+              "DocumentMoniker": "C:\\Users\\neboj\\OneDrive\\Desktop\\ASP.NET WebAPI Homework Class 101\\LibraryApp\\LibraryApp\\Controllers\\AuthorController.cs",
+              "RelativeDocumentMoniker": "LibraryApp\\Controllers\\AuthorController.cs",
+              "ToolTip": "C:\\Users\\neboj\\OneDrive\\Desktop\\ASP.NET WebAPI Homework Class 101\\LibraryApp\\LibraryApp\\Controllers\\AuthorController.cs",
+              "RelativeToolTip": "LibraryApp\\Controllers\\AuthorController.cs",
+              "ViewState": "AgIAADsAAAAAAAAAAAAowFkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-06T17:18:34.322Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
