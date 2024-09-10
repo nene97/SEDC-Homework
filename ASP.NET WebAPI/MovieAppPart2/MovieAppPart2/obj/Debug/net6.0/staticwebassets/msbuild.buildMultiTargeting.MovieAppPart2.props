@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\MovieAppPart2.props" />
+</Project>
